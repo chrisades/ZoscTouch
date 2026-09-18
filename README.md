@@ -1,9 +1,9 @@
 # ZOSC TOUCH
-ZoscTouch is a dual [Z-Oscillator](https://docs.daisy.audio/DaisySP/classdaisysp_1_1ZOscillator/#detailed-description) monophonic synthesizer built for the [Synthux SimpleTouch](https://www.synthux.academy/store/touch-2-kit) which runs on a Daisy Seed. 
+ZoscTouch is a dual [Z-Oscillator](https://docs.daisy.audio/DaisySP/classdaisysp_1_1ZOscillator/#detailed-description) monophonic synthesizer built for the [Synthux SimpleTouch](https://www.synthux.academy/store/touch-2-kit). 
 
-The project one main C++ file with minimal abstractions. It's meant to show every working part of the hardware peripherals and synth logic using this [template](https://github.com/chrisades/SimpleTouchTemplate) as a base, with [DaisySP](https://docs.daisy.audio/DaisySP/namespacedaisysp/) modules doing the heavy lifting.
+The project contains one main C++ file (`ZoscTouch.cpp`) with minimal abstractions. It's meant to show every working part of the hardware peripherals and synth logic using this [template](https://github.com/chrisades/SimpleTouchTemplate) as a base, with [DaisySP](https://docs.daisy.audio/DaisySP/namespacedaisysp/) modules doing the heavy lifting.
 
-If you're looking for a more professional coding style please reference the official Synthux SimpleTouch projects like [TouchBass](https://github.com/Synthux-Academy/TouchBass) or [TouchString](https://github.com/Synthux-Academy/TouchString) from which the peripheral logic and the rest of this README was adapted from.
+If you're looking for a much cleaner coding style please reference the official Synthux SimpleTouch projects like [TouchBass](https://github.com/Synthux-Academy/TouchBass) or [TouchString](https://github.com/Synthux-Academy/TouchString) from which the peripheral logic and the rest of this README was adapted from.
 
 ## QUICK INSTALL
 Download the [Binary file](https://github.com/chrisades/ZoscTouch/releases/latest/download/ZoscTouch.bin) and flash using the [Daisy Seed web programmer](https://flash.daisy.audio/)
