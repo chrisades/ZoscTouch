@@ -1,7 +1,7 @@
 # ZOSC TOUCH
 ZoscTouch is a dual ZOscillator monophonic synthesizer built for the Synthux SimpleTouch which runs on a Daisy Seed. 
 
-The project is one page with minimal abstractions. It's meant to show every working part of the hardware periferals and synth logic using this [template](https://github.com/chrisades/SimpleTouchTemplate) as a base, with [DaisySP](https://docs.daisy.audio/DaisySP/namespacedaisysp/) modules doing the heavy lifting.
+The project one main C++ file with minimal abstractions. It's meant to show every working part of the hardware peripherals and synth logic using this [template](https://github.com/chrisades/SimpleTouchTemplate) as a base, with [DaisySP](https://docs.daisy.audio/DaisySP/namespacedaisysp/) modules doing the heavy lifting.
 
 If you're looking for a more professional coding style please reference the official Synthux SimpleTouch projects like [TouchBass](https://github.com/Synthux-Academy/TouchBass) or [TouchString](https://github.com/Synthux-Academy/TouchString) from which the peripheral logic and the rest of this README was adapted from.
 
