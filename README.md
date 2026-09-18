@@ -29,7 +29,7 @@ Download the [Binary file](https://github.com/chrisades/ZoscTouch/releases/lates
 - P01 - Cycle Scales
 - P00/P02 - Octave -/+
 - P03...P09 - Notes
-- P10/P11 - Level -/+ 
+- P10/P11 - Output Level -/+ 
 
 ## PREREQUISITES
 - [Daisy Toolchain](https://docs.daisy.audio/tutorials/cpp-dev-env/) (ARM GCC + make)
