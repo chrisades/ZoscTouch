@@ -26,8 +26,8 @@ Download the [Binary file](https://github.com/chrisades/ZoscTouch/releases/lates
 - S37 - ZOsc-1 and ZOsc-2 Mode
 
 **Pads**
-- P00 - Cycle Scales
-- P01/P02 - Octave -/+
+- P01 - Cycle Scales
+- P00/P02 - Octave -/+
 - P03...P09 - Notes
 - P10/P11 - Level -/+ 
 
